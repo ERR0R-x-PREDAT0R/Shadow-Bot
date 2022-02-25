@@ -1,9 +1,9 @@
 {
-    "name": "Shadow Bot",
-    "description": "Shadow bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.imgur.com/66WENFB.jpeg",
+    "name": "Tony-Ser",
+    "description": "Tony-Ser - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "https://www.linkpicture.com/q/Tony-Ser.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/SPARK-SHADOW/Shadow-Bot",
+    "repository": "https://github.com/ERR0R-x-PREDAT0R/Shadow-Bot",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -24,7 +24,7 @@
         "FAKE_PREVIEW": {
             "description": "Fake Web Preview.. (*Example: Head\nBody\nLink\nmediaType[2 or 3]\nthumbnailUrl)",
             "required": false,
-            "value": "Ꮥ н @ ∂ ø Ш\nwhile ( ! (succeed = try () ) );,l\nhttps://www.instagram.com/p/CXkZgRZPrBD/?utm_medium=copy_link\n2\nhttps://i.imgur.com/40cQtSL.jpeg"
+            "value": "Ꮥ н @ ∂ ø Ш\nwhile ( ! (succeed = try () ) );,l\nhttps://www.instagram.com/p/CXkZgRZPrBD/?utm_medium=copy_link\n2\nhttps://www.linkpicture.com/q/Tony-Ser.jpg"
         },
         "BGM_DURATION": {
              "description": "To set bgm duration",
@@ -139,7 +139,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━╼⤏SHADOW BOT⤎╾━━━•"
+            "value": "•━━━╼⤏Tony-Ser⤎╾━━━•"
         },      
         "TALKING_PINKY": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -205,7 +205,7 @@
         "ALIVE_URL": {
             "description": "Customizable Alive Image!",
             "required": false,
-            "value": "https://i.imgur.com/9XdouSJ.jpeg"
+            "value": "https://www.linkpicture.com/q/Tony-Ser.jpg"
         }, 
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
