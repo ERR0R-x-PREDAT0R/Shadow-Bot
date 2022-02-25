@@ -96,7 +96,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 ╠══➢ #40ttp       Your Text
 ║
 ║
-║▷Creator: Shadow
+║▷Creator: ᴀʟɪɴsʜᴀɴ
 ╚════════════════════╝
 `,quoted: message.data})
 
@@ -109,7 +109,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/blackbird?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
@@ -119,7 +119,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/text3d?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
@@ -129,7 +129,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/wroom?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
@@ -139,7 +139,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/surfboard?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
@@ -149,7 +149,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/orlando?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
@@ -159,7 +159,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/matrix?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
@@ -169,7 +169,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/minions?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
@@ -179,7 +179,7 @@ let wk = Config.WORKTYPE == 'public' ? false : true
 
         var rex = await axios.
         get(`https://bx-hunter.herokuapp.com/api/flamingtext/hbd?text=${encodeURIComponent(match[1])}&apikey=Ikyy69`, { responseType: 'arraybuffer' })
-        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```Coded by Shadow``` ',quoted: message.data})
+        await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.AFN + '\n\n   ```ᴄᴏᴅᴅᴇᴅ ʙʏ ᴀʟɪɴsʜᴀɴ``` ',quoted: message.data})
 
     }));
    
